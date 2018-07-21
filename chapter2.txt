@@ -1,2 +1,8 @@
 It was the age of wisdom, it was the age of foolishness lets try out the new desktop version
+<<<<<<< HEAD
  Now try it with source tree
+=======
+
+
+And lets change this 
+>>>>>>> alien-plot
